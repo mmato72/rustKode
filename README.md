@@ -11,3 +11,4 @@ Ownership study started on March 10 2025. Rust training has started in earnest n
 
 25th March: First day that I forgot to code
 3rd April: Overwhelmed spending money for the home
+6th April: Too tired to code
