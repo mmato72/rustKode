@@ -14,3 +14,4 @@ Ownership study started on March 10 2025. Rust training has started in earnest n
 6th April: Too tired to code
 
 We are back. June 25th
+Just changed my email back to martin@zbytes.tech
